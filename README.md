@@ -1,5 +1,5 @@
 # TUGASPBOSection10_2
-Mengupload ulang karena ternyata upload zip di github tidak bisa
+Mengupload ulang karena saya mengupload zip di github https://github.com/ilomimo/TugasPBOSection10 dan ternyata tidak bisa dibuka.
 
 Nama  : Clarissa Luna Maheswari
 
